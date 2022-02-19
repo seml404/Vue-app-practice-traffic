@@ -46,9 +46,7 @@ export default {
       return this.$store.getters.getYellowLight;
     },
   },
-  mounted() {
-    // this.working();
-  },
+  mounted() {},
 };
 </script>
 
